@@ -46,6 +46,10 @@ The {} contain a number inside. That number sets the limits of how many characte
 
 ### OR Operator
 
+/^#?([a-f0-9]{6} `|` [a-f0-9]{3})$/
+
+The OR operator is marked by the `|` character. We might have noticed that our expression has {6} and {3} in it. How could it be 6 characters AND 3 characters at the same time? Enter the OR Operator. This separates our expression into two parts. This shows that we can have the expression as a 6 character string OR `|` a 3 character string. 
+
 ### Character Classes
 
 ### Flags
