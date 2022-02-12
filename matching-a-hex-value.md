@@ -1,10 +1,10 @@
-# Title (replace with your title)
+# Matching a Hex Value
 
-Introductory paragraph (replace this with your text)
+Regular Expressions (Regex) are sequences of characters that define a search pattern, mainly for use in pattern matching with strings, or string matching. Regexes are a generalized way to match patterns with sequences of characters. (geeksforgeeks.org/write-regular-expressions)
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+In this tutorial, we will be covering the components of a regex used to match a hex value. 
 
 ## Table of Contents
 
@@ -46,4 +46,5 @@ Briefly summarize the regex you will be describing and what you will explain. In
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+My name is Jason Boudreaux. I am a Full Stack Web Development Boot Camp student at SMU.
+GitHub profile: github.com/jsnbdrx
